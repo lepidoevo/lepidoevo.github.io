@@ -40,3 +40,20 @@
 #main {
   margin-top: 1em;
 }
+
+// 글자 크기 줄이기
+html {
+  font-size: 14px; // 기본값은 보통 16px입니다
+  
+  @include breakpoint($medium) {
+    font-size: 16px; // 중간 화면에서의 크기
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px; // 큰 화면에서의 크기
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 20px; // 아주 큰 화면에서의 크기
+  }
+}
