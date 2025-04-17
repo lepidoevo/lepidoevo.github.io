@@ -44,3 +44,125 @@
 body {
   font-family: "Times New Roman", Times, serif !important;
 }
+
+
+/* Typography Settings */
+html {
+  font-size: 16px; /* Base font size */
+  
+  @media (min-width: 800px) {
+    font-size: 18px; /* Larger font size on bigger screens */
+  }
+}
+
+body {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+.page__content p,
+.page__content li,
+.page__content dl {
+  font-family: "Times New Roman", Times, serif !important;
+  font-size: 1em;
+  line-height: 1.6;
+}
+
+/* Layout adjustments */
+.sidebar {
+  width: 250px !important;
+  padding-right: 15px;
+  opacity: 1 !important;
+}
+
+.page {
+  width: calc(100% - 250px);
+  padding-right: 20px;
+}
+
+@media (max-width: 1024px) {
+  .page {
+    width: 100%;
+  }
+}
+
+/* Author Profile Styling */
+.author__avatar {
+  display: block !important;
+  width: 100% !important;
+  
+  img {
+    max-width: 150px;
+    border-radius: 50%;
+    display: block !important;
+  }
+}
+
+.author__content {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.author__urls-wrapper {
+  display: block !important;
+}
+
+/* Ensure author profile visibility on all pages */
+.layout--single .author__avatar,
+.layout--single .author__content,
+.layout--single .author__urls-wrapper,
+.wide .author__avatar,
+.wide .author__content,
+.wide .author__urls-wrapper {
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Adjust top margin of entire page */
+#main {
+  margin-top: 1em;
+}
+
+/* Override any hidden visibility */
+.author-profile {
+  display: block !important;
+  visibility: visible !important;
+}
+
+/* Fix for masthead layout */
+.masthead {
+  position: relative;
+  
+  &__inner-wrap {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+  }
+}
+
+/* Fix for navigation */
+.greedy-nav {
+  a {
+    font-family: "Times New Roman", Times, serif !important;
+  }
+}
+
+/* Fix for author profile in pages */
+.layout--single.page .sidebar__right {
+  display: block !important;
+}
