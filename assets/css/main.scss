@@ -1,0 +1,42 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Custom CSS */
+.sidebar {
+  width: 250px !important; /* Reduce sidebar width */
+  padding-right: 15px;
+}
+
+.page {
+  width: calc(100% - 250px);
+  padding-right: 20px;
+}
+
+@media (max-width: 1024px) {
+  .page {
+    width: 100%;
+  }
+}
+
+/* Adjust author profile vertical spacing */
+.author__avatar {
+  img {
+    max-width: 150px; /* Make profile image smaller */
+  }
+}
+
+.author__content {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* Adjust top margin of entire page */
+#main {
+  margin-top: 1em;
+}
