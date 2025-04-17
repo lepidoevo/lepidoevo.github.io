@@ -13,16 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+locale: "ko-KR"
+title: "Hee Han"
+title_separator: "|"
+subtitle: "Lepidoptera Evolution"
+name: "Hee Han"
+description: "Master student studying evolution of Lepidoptera"
+url: "https://lepidoevo.github.io"
+baseurl: ""
+repository: "lepidoevo/lepidoevo.github.io"
+teaser: # 미리보기 이미지 경로
+logo: # 상단 로고 이미지 경로
+masthead_title: "Hee Han"
 
 # Build settings
 markdown: kramdown
@@ -58,34 +60,38 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "Hee Han"
+  avatar: "assets/images/profile.jpg" # 프로필 이미지 경로 (나중에 업로드할 이미지)
+  bio: "MSA student studying evolution of living things"
+  location: "South Korea"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hanhee0906@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/lepidoevo"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/korean_moth"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/lepido_evo/"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Hee-Han-4"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0009-0005-0312-2630"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/lepidoevo"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/korean_moth"
 
 defaults:
   # _posts
@@ -113,3 +119,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Typography
+typography:
+  enable: true
+  font_family: "Times New Roman, serif"
