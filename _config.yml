@@ -61,7 +61,7 @@ plugins:
 
 author:
   name: "Hee Han"
-  avatar: "assets/images/profile.jpg" # 프로필 이미지 경로 (나중에 업로드할 이미지)
+  avatar: "assets/images/2024_11_1_반명함_한 희.jpg" # 프로필 이미지 경로 (나중에 업로드할 이미지)
   bio: "MSA student studying evolution of living things"
   location: "South Korea"
   links:
