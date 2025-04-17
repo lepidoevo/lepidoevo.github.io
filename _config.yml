@@ -119,8 +119,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# Typography
-typography:
-  enable: true
-  font_family: "Times New Roman, serif"
