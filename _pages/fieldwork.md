@@ -2,7 +2,6 @@
 title: "Fieldwork"
 permalink: /fieldwork/
 classes: wide
-author_profile: true
 ---
 
 ## Fieldwork Documentation
