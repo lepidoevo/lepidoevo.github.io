@@ -11,10 +11,31 @@ $global-font-family: $serif;
 $header-font-family: $serif;
 $caption-font-family: $serif;
 
-// width
-$right-sidebar-width-narrow: 220px;      //
-$right-sidebar-width: 280px;             // 
-$right-sidebar-width-wide: 320px;        // 
+// In assets/css/main.scss - add these after your existing imports
+html {
+    font-size: 14px; // Base font size reduction (default is usually 16px)
+  }
+  
+  body {
+    font-size: 0.9em; // Another approach to reduce font size
+  }
+  
+  h1 {
+    font-size: 1.8em; // Reduce heading sizes
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  h3 {
+    font-size: 1.2em;
+  }
+  
+  .page__content p, 
+  .page__content li {
+    font-size: 0.95em; // Reduce paragraph and list text
+  }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

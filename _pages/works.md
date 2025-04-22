@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Works"
+classes: wide
 permalink: /works/
 author_profile: true
 ---

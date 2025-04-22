@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Introduction"
 permalink: /main/
 author_profile: true

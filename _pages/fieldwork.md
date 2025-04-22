@@ -1,9 +1,10 @@
 ---
 layout: single
 title: "Fieldwork"
+classes: wide
 permalink: /fieldwork/
 author_profile: true
-gallery:
+gallery_gwangreung:
   - url: /assets/images/Gwangreung/8312079.jpg
     image_path: /assets/images/Gwangreung/8312079.jpg
   - url: /assets/images/Gwangreung/8122046.jpg
@@ -24,5 +25,6 @@ gallery:
     image_path: /assets/images/Gwangreung/8312091.jpg
 ---
 
-{% include gallery caption="Fieldwork Photos" %}
+{% include gallery id="gallery_gwangreung" caption="Gwangreung" %}
+
 
