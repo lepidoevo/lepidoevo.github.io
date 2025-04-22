@@ -4,6 +4,32 @@ title: "Fieldwork"
 classes: wide
 permalink: /fieldwork/
 author_profile: true
+gallery_uljin:
+  - url: /assets/images/Uljin/7080838.jpg
+    image_path: /assets/images/Uljin/7080838.jpg
+  - url: /assets/images/Uljin/7080979.jpg
+    image_path: /assets/images/Uljin/7080979.jpg
+  - url: /assets/images/Uljin/7080997.jpg
+    image_path: /assets/images/Uljin/7080997.jpg
+gallery_ulleungdo:
+  - url: /assets/images/Ulleungdo/7091064.jpg
+    image_path: /assets/images/Ulleungdo/7091064.jpg
+  - url: /assets/images/Ulleungdo/7091109.jpg
+    image_path: /assets/images/Ulleungdo/7091109.jpg
+  - url: /assets/images/Ulleungdo/7091357.jpg
+    image_path: /assets/images/Ulleungdo/7091357.jpg
+  - url: /assets/images/Ulleungdo/7111717.jpg
+    image_path: /assets/images/Ulleungdo/7111717.jpg
+  - url: /assets/images/Ulleungdo/7111840.jpg
+    image_path: /assets/images/Ulleungdo/7111840.jpg
+  - url: /assets/images/Ulleungdo/7111851.jpg
+    image_path: /assets/images/Ulleungdo/7111851.jpg
+  - url: /assets/images/Ulleungdo/7111856.jpg
+    image_path: /assets/images/Ulleungdo/7111856.jpg
+  - url: /assets/images/Ulleungdo/7111870.jpg
+    image_path: /assets/images/Ulleungdo/7111870.jpg
+  - url: /assets/images/Ulleungdo/7121962.jpg
+    image_path: /assets/images/Ulleungdo/7121962.jpg
 gallery_gwangreung:
   - image: /assets/images/Gwangreung/8312079.jpg
     image_path: /assets/images/Gwangreung/8312079.jpg
@@ -71,8 +97,9 @@ gallery_cheongju:
 
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
-
-{% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea) 2024.VIII" %}
-{% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) 2024.IX" %}
-{% include gallery id="gallery_cheongju" caption="Cheongju (Korea) 2025.II" %}
+{% include gallery id="gallery_uljin" caption="Uljin (Korea) - VII 2024" %}
+{% include gallery id="gallery_ulleungdo" caption="Is.Ulleungdo (Korea) - VII 2024" %}
+{% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea) - VIII 2024" %}
+{% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) - IX 2024" %}
+{% include gallery id="gallery_cheongju" caption="Cheongju (Korea) - II 2025" %}
 
