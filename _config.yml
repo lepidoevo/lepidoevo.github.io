@@ -79,6 +79,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lepido_evo/"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/lepheedo.bsky.social"
 
 footer:
   links:
