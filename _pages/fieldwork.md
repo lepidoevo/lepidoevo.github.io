@@ -52,12 +52,14 @@ gallery_heuksando:
 
 ## My iNaturalist Observations
 
-<iframe src="https://www.inaturalist.org/observations/map?user_id=hanhee&layout=false" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="https://www.inaturalist.org/observations?place_id=any&user_id=hanhee&verifiable=any" width="100%" height="500px" frameborder="0"></iframe>
+
+## Examples
+
+##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
+
 
 {% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea)" %}
 {% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea)" %}
-
-{% include carousel.html height="500" unit="%" duration="7" number="1" %}
-{% include carousel.html height="500" unit="%" duration="7" number="2" %}
 
 
