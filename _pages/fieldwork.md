@@ -48,6 +48,13 @@ gallery_heuksando:
     image_path: /assets/images/Heuksando/9042533.jpg
   - url: /assets/images/Heuksando/9042558.jpg
     image_path: /assets/images/Heuksando/9042558.jpg
+gallery_cheongju:
+  - url: /assets/images/Cheongju/2140015.jpg
+    image_path: /assets/images/Cheongju/2140015.jpg
+  - url: /assets/images/Cheongju/2140047.jpg
+    image_path: /assets/images/Cheongju/2140047.jpg
+  - url: /assets/images/Cheongju/2140057.jpg
+    image_path: /assets/images/Cheongju/2140057.jpg
 ---
 
 ## My iNaturalist Observations
@@ -67,5 +74,5 @@ gallery_heuksando:
 
 {% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea) 2024.VIII" %}
 {% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) 2024.IX" %}
-
+{% include gallery id="gallery_cheongju" caption="Cheongju (Korea) 2025.II" %}
 
