@@ -52,7 +52,7 @@ gallery_heuksando:
 
 ## My iNaturalist Observations
 
-<iframe src="https://www.inaturalist.org/observations?place_id=any&user_id=hanhee&verifiable=any" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="https://www.inaturalist.org/observations/map?user_id=hanhee&layout=false" width="100%" height="500px" frameborder="0"></iframe>
 
 ## Examples
 
