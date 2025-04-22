@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Hee Han"
-  avatar : "/assets/images/2024_11_1_profile_hee_han.jpg"
+  avatar : "/assets/images/profile_hee_han.jpg"
   bio    : "MSA student studying evolution of living things"
   links:
     - label: "Email"
