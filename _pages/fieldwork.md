@@ -5,11 +5,11 @@ classes: wide
 permalink: /fieldwork/
 author_profile: true
 gallery_gwangreung:
-  - url: /assets/images/Gwangreung/8312079.jpg
+  - image: /assets/images/Gwangreung/8312079.jpg
     image_path: /assets/images/Gwangreung/8312079.jpg
-  - url: /assets/images/Gwangreung/8122046.jpg
+  - image: /assets/images/Gwangreung/8122046.jpg
     image_path: /assets/images/Gwangreung/8122046.jpg
-  - url: /assets/images/Gwangreung/8122037.jpg
+  - image: /assets/images/Gwangreung/8122037.jpg
     image_path: /assets/images/Gwangreung/8122037.jpg
   - url: /assets/images/Gwangreung/8032870.jpg
     image_path: /assets/images/Gwangreung/8032870.jpg
@@ -50,7 +50,10 @@ gallery_heuksando:
     image_path: /assets/images/Heuksando/9042558.jpg
 ---
 
-{% include gallery id="gallery_gwangreung" caption="Gwangreung" %}
-{% include gallery id="gallery_heuksando" caption="Is.Heuksando" %}
+{% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea)" %}
+{% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea)" %}
+
+{% include carousel.html height="500" unit="%" duration="7" number="1" %}
+{% include carousel.html height="500" unit="%" duration="7" number="2" %}
 
 
