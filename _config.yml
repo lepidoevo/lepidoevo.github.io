@@ -25,6 +25,12 @@ search: true
 locale: "en"
 url: "https://lepidoevo.github.io"
 
+# SEO Related
+google_site_verification : gqu9MfoabYhgn9nEmnY97Mtcnjl0fNYLoXzWI6CnwNI
+bing_site_verification   : 
+alexa_site_verification  : 
+yandex_site_verification : 
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
