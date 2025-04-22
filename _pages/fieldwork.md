@@ -50,6 +50,10 @@ gallery_heuksando:
     image_path: /assets/images/Heuksando/9042558.jpg
 ---
 
+## My iNaturalist Observations
+
+<iframe src="https://www.inaturalist.org/observations/map?user_id=hanhee&layout=false" width="100%" height="500px" frameborder="0"></iframe>
+
 {% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea)" %}
 {% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea)" %}
 
