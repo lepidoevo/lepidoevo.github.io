@@ -28,8 +28,7 @@ url: "https://lepidoevo.github.io"
 # SEO Related
 google_site_verification : gqu9MfoabYhgn9nEmnY97Mtcnjl0fNYLoXzWI6CnwNI
 bing_site_verification   : 
-alexa_site_verification  : 
-yandex_site_verification : 
+naver_site_verification  : 208094a841b29ad2d96dd5ef67a3ed8799448a09
 
 # Build settings
 markdown: kramdown
