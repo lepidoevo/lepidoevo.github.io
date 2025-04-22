@@ -65,7 +65,7 @@ gallery_heuksando:
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
 
-{% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea)" %}
-{% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea)" %}
+{% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea) 2024.VIII" %}
+{% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) 2024.IX" %}
 
 
