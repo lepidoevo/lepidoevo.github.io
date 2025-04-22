@@ -54,6 +54,12 @@ gallery_heuksando:
 
 <iframe src="https://www.inaturalist.org/observations/map?user_id=hanhee&layout=false" width="100%" height="500px" frameborder="0"></iframe>
 
+<div class="notice--info" style="margin-top: 10px; margin-bottom: 20px;">
+  <p>This map shows locations of my field observations. <a href="https://www.inaturalist.org/observations?user_id=hanhee" target="_blank"><strong>View all my observations on iNaturalist</strong></a> for detailed species information and photographs.</p>
+  
+  <p><small>Note: The embedded map above has limited functionality. For full interactive features, please visit my complete observation collection on the iNaturalist website.</small></p>
+</div>
+
 ## Examples
 
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
