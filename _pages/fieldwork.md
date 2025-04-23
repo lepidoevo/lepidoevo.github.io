@@ -4,64 +4,13 @@ title: "Fieldwork"
 classes: wide
 permalink: /fieldwork/
 author_profile: true
-gallery_yongchodo:
-  - url: /assets/images/Yongchodo/5132147.jpg
-    image_path: /assets/images/Yongchodo/5132147.jpg
-  - url: /assets/images/Yongchodo/5132195.jpg
-    image_path: /assets/images/Yongchodo/5132195.jpg
-  - url: /assets/images/Yongchodo/5132290.jpg
-    image_path: /assets/images/Yongchodo/5132290.jpg
-  - url: /assets/images/Yongchodo/5132221.jpg
-    image_path: /assets/images/Yongchodo/5132221.jpg
-  - url: /assets/images/Yongchodo/5132257.jpg
-    image_path: /assets/images/Yongchodo/5132257.jpg
-  - url: /assets/images/Yongchodo/5132276.jpg
-    image_path: /assets/images/Yongchodo/5132276.jpg  
-gallery_uljin:
-  - url: /assets/images/Uljin/7080838.jpg
-    image_path: /assets/images/Uljin/7080838.jpg
-  - url: /assets/images/Uljin/7080979.jpg
-    image_path: /assets/images/Uljin/7080979.jpg
-  - url: /assets/images/Uljin/7080997.jpg
-    image_path: /assets/images/Uljin/7080997.jpg
-gallery_ulleungdo:
-  - url: /assets/images/Ulleungdo/7091064.jpg
-    image_path: /assets/images/Ulleungdo/7091064.jpg
-  - url: /assets/images/Ulleungdo/7091109.jpg
-    image_path: /assets/images/Ulleungdo/7091109.jpg
-  - url: /assets/images/Ulleungdo/7091357.jpg
-    image_path: /assets/images/Ulleungdo/7091357.jpg
-  - url: /assets/images/Ulleungdo/7111717.jpg
-    image_path: /assets/images/Ulleungdo/7111717.jpg
-  - url: /assets/images/Ulleungdo/7111840.jpg
-    image_path: /assets/images/Ulleungdo/7111840.jpg
-  - url: /assets/images/Ulleungdo/7111851.jpg
-    image_path: /assets/images/Ulleungdo/7111851.jpg
-  - url: /assets/images/Ulleungdo/7111856.jpg
-    image_path: /assets/images/Ulleungdo/7111856.jpg
-  - url: /assets/images/Ulleungdo/7111870.jpg
-    image_path: /assets/images/Ulleungdo/7111870.jpg
-  - url: /assets/images/Ulleungdo/7121962.jpg
-    image_path: /assets/images/Ulleungdo/7121962.jpg
-gallery_gwangreung:
-  - image: /assets/images/Gwangreung/8312079.jpg
-    image_path: /assets/images/Gwangreung/8312079.jpg
-  - image: /assets/images/Gwangreung/8122046.jpg
-    image_path: /assets/images/Gwangreung/8122046.jpg
-  - image: /assets/images/Gwangreung/8122037.jpg
-    image_path: /assets/images/Gwangreung/8122037.jpg
-  - url: /assets/images/Gwangreung/8032870.jpg
-    image_path: /assets/images/Gwangreung/8032870.jpg
-  - url: /assets/images/Gwangreung/8032798.jpg
-    image_path: /assets/images/Gwangreung/8032798.jpg
-  - url: /assets/images/Gwangreung/8032849.jpg
-    image_path: /assets/images/Gwangreung/8032849.jpg
-  - url: /assets/images/Gwangreung/8122053.jpg
-    image_path: /assets/images/Gwangreung/8122053.jpg
-  - url: /assets/images/Gwangreung/8312122.jpg
-    image_path: /assets/images/Gwangreung/8312122.jpg
-  - url: /assets/images/Gwangreung/8312091.jpg
-    image_path: /assets/images/Gwangreung/8312091.jpg
+gallery_cheongju:
+  - url: /assets/images/Cheongju/2140015.jpg
+    image_path: /assets/images/Cheongju/2140015.jpg
+  - url: /assets/images/Cheongju/2140047.jpg
+    image_path: /assets/images/Cheongju/2140047.jpg
+  - url: /assets/images/Cheongju/2140057.jpg
+    image_path: /assets/images/Cheongju/2140057.jpg
 gallery_heuksando:
   - url: /assets/images/Heuksando/9022195.jpg
     image_path: /assets/images/Heuksando/9022195.jpg
@@ -87,13 +36,64 @@ gallery_heuksando:
     image_path: /assets/images/Heuksando/9042533.jpg
   - url: /assets/images/Heuksando/9042558.jpg
     image_path: /assets/images/Heuksando/9042558.jpg
-gallery_cheongju:
-  - url: /assets/images/Cheongju/2140015.jpg
-    image_path: /assets/images/Cheongju/2140015.jpg
-  - url: /assets/images/Cheongju/2140047.jpg
-    image_path: /assets/images/Cheongju/2140047.jpg
-  - url: /assets/images/Cheongju/2140057.jpg
-    image_path: /assets/images/Cheongju/2140057.jpg
+gallery_gwangreung:
+  - image: /assets/images/Gwangreung/8312079.jpg
+    image_path: /assets/images/Gwangreung/8312079.jpg
+  - image: /assets/images/Gwangreung/8122046.jpg
+    image_path: /assets/images/Gwangreung/8122046.jpg
+  - image: /assets/images/Gwangreung/8122037.jpg
+    image_path: /assets/images/Gwangreung/8122037.jpg
+  - url: /assets/images/Gwangreung/8032870.jpg
+    image_path: /assets/images/Gwangreung/8032870.jpg
+  - url: /assets/images/Gwangreung/8032798.jpg
+    image_path: /assets/images/Gwangreung/8032798.jpg
+  - url: /assets/images/Gwangreung/8032849.jpg
+    image_path: /assets/images/Gwangreung/8032849.jpg
+  - url: /assets/images/Gwangreung/8122053.jpg
+    image_path: /assets/images/Gwangreung/8122053.jpg
+  - url: /assets/images/Gwangreung/8312122.jpg
+    image_path: /assets/images/Gwangreung/8312122.jpg
+  - url: /assets/images/Gwangreung/8312091.jpg
+    image_path: /assets/images/Gwangreung/8312091.jpg
+gallery_ulleungdo:
+  - url: /assets/images/Ulleungdo/7091064.jpg
+    image_path: /assets/images/Ulleungdo/7091064.jpg
+  - url: /assets/images/Ulleungdo/7091109.jpg
+    image_path: /assets/images/Ulleungdo/7091109.jpg
+  - url: /assets/images/Ulleungdo/7091357.jpg
+    image_path: /assets/images/Ulleungdo/7091357.jpg
+  - url: /assets/images/Ulleungdo/7111717.jpg
+    image_path: /assets/images/Ulleungdo/7111717.jpg
+  - url: /assets/images/Ulleungdo/7111840.jpg
+    image_path: /assets/images/Ulleungdo/7111840.jpg
+  - url: /assets/images/Ulleungdo/7111851.jpg
+    image_path: /assets/images/Ulleungdo/7111851.jpg
+  - url: /assets/images/Ulleungdo/7111856.jpg
+    image_path: /assets/images/Ulleungdo/7111856.jpg
+  - url: /assets/images/Ulleungdo/7111870.jpg
+    image_path: /assets/images/Ulleungdo/7111870.jpg
+  - url: /assets/images/Ulleungdo/7121962.jpg
+    image_path: /assets/images/Ulleungdo/7121962.jpg
+gallery_uljin:
+  - url: /assets/images/Uljin/7080838.jpg
+    image_path: /assets/images/Uljin/7080838.jpg
+  - url: /assets/images/Uljin/7080979.jpg
+    image_path: /assets/images/Uljin/7080979.jpg
+  - url: /assets/images/Uljin/7080997.jpg
+    image_path: /assets/images/Uljin/7080997.jpg
+gallery_yongchodo:
+  - url: /assets/images/Yongchodo/5132221.jpg
+    image_path: /assets/images/Yongchodo/5132221.jpg
+  - url: /assets/images/Yongchodo/5132257.jpg
+    image_path: /assets/images/Yongchodo/5132257.jpg
+  - url: /assets/images/Yongchodo/5132276.jpg
+    image_path: /assets/images/Yongchodo/5132276.jpg
+  - url: /assets/images/Yongchodo/5132147.jpg
+    image_path: /assets/images/Yongchodo/5132147.jpg
+  - url: /assets/images/Yongchodo/5132195.jpg
+    image_path: /assets/images/Yongchodo/5132195.jpg
+  - url: /assets/images/Yongchodo/5132290.jpg
+    image_path: /assets/images/Yongchodo/5132290.jpg
 ---
 
 ## My iNaturalist Observations
@@ -134,10 +134,10 @@ gallery_cheongju:
 
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
-{% include gallery id="gallery_yongchodo" caption="Is.Yongchodo (Korea) - V 2024" %}
-{% include gallery id="gallery_uljin" caption="Uljin (Korea) - VII 2024" %}
-{% include gallery id="gallery_ulleungdo" caption="Is.Ulleungdo (Korea) - VII 2024" %}
-{% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea) - VIII 2024" %}
-{% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) - IX 2024" %}
 {% include gallery id="gallery_cheongju" caption="Cheongju (Korea) - II 2025" %}
+{% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) - IX 2024" %}
+{% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea) - VIII 2024" %}
+{% include gallery id="gallery_ulleungdo" caption="Is.Ulleungdo (Korea) - VII 2024" %}
+{% include gallery id="gallery_uljin" caption="Uljin (Korea) - VII 2024" %}
+{% include gallery id="gallery_yongchodo" caption="Is.Yongchodo (Korea) - V 2024" %}
 
