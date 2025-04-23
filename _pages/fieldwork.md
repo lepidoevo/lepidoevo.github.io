@@ -11,12 +11,6 @@ gallery_heuksando:
     image_path: /assets/images/Heuksando/9022202.jpg
   - url: /assets/images/Heuksando/9032497.jpg
     image_path: /assets/images/Heuksando/9032497.jpg
-  - url: /assets/images/Heuksando/9022211.jpg
-    image_path: /assets/images/Heuksando/9022211.jpg
-  - url: /assets/images/Heuksando/9032375.jpg
-    image_path: /assets/images/Heuksando/9032375.jpg
-  - url: /assets/images/Heuksando/9042547.jpg
-    image_path: /assets/images/Heuksando/9042547.jpg
   - url: /assets/images/Heuksando/9022254.jpg
     image_path: /assets/images/Heuksando/9022254.jpg
   - url: /assets/images/Heuksando/9032295.jpg
@@ -29,6 +23,12 @@ gallery_heuksando:
     image_path: /assets/images/Heuksando/9042533.jpg
   - url: /assets/images/Heuksando/9042558.jpg
     image_path: /assets/images/Heuksando/9042558.jpg
+  - url: /assets/images/Heuksando/9022211.jpg
+    image_path: /assets/images/Heuksando/9022211.jpg
+  - url: /assets/images/Heuksando/9032375.jpg
+    image_path: /assets/images/Heuksando/9032375.jpg
+  - url: /assets/images/Heuksando/9042547.jpg
+    image_path: /assets/images/Heuksando/9042547.jpg
 gallery_gwangreung:
   - image: /assets/images/Gwangreung/8312079.jpg
     image_path: /assets/images/Gwangreung/8312079.jpg
