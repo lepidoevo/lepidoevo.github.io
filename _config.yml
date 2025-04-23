@@ -89,6 +89,12 @@ author:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/lepheedo.bsky.social"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/hee-han-9510b9298/"
+    - label: "Naver Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://blog.naver.com/cenit_lab"
 
 footer:
   links:
