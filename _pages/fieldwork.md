@@ -111,7 +111,26 @@ gallery_cheongju:
   <p>Note: The embedded map above has limited functionality. For full interactive features, please visit my complete observation collection on the iNaturalist website.</p>
 </div>
 
-## Examples
+### Collection trip experiences
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div style="text-align: center;">
+    <img src="/assets/images/field/light.jpg" alt="Moths attracted by the light trap" width="300" height="200">
+    <p style="margin-top: 5px; font-size: 14px;">Moths and other insects attracted by the light trap</p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="/assets/images/field/wando.jpg" alt="Is.Wando's climate" width="300" height="200">
+    <p style="margin-top: 5px; font-size: 14px;">Is.Wando's temperate-subtropical climate</p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="/assets/images/field/field.jpg" alt="During collect trip to Gangwondo (Korea)" width="300" height="200">
+    <p style="margin-top: 5px; font-size: 14px;">During the collection trip to Gangwondo (Korea)</p>
+  </div>
+</div>
+
+## Photo Examples
 
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
