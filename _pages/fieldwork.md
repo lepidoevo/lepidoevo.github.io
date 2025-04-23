@@ -4,6 +4,19 @@ title: "Fieldwork"
 classes: wide
 permalink: /fieldwork/
 author_profile: true
+gallery_yongchodo:
+  - url: /assets/images/Yongchodo/5132147.jpg
+    image_path: /assets/images/Yongchodo/5132147.jpg
+  - url: /assets/images/Yongchodo/5132195.jpg
+    image_path: /assets/images/Yongchodo/5132195.jpg
+  - url: /assets/images/Yongchodo/5132290.jpg
+    image_path: /assets/images/Yongchodo/5132290.jpg
+  - url: /assets/images/Yongchodo/5132221.jpg
+    image_path: /assets/images/Yongchodo/5132221.jpg
+  - url: /assets/images/Yongchodo/5132257.jpg
+    image_path: /assets/images/Yongchodo/5132257.jpg
+  - url: /assets/images/Yongchodo/5132276.jpg
+    image_path: /assets/images/Yongchodo/5132276.jpg  
 gallery_uljin:
   - url: /assets/images/Uljin/7080838.jpg
     image_path: /assets/images/Uljin/7080838.jpg
@@ -102,6 +115,7 @@ gallery_cheongju:
 
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
+{% include gallery id="gallery_yongchodo" caption="Is.Yongchodo (Korea) - V 2024" %}
 {% include gallery id="gallery_uljin" caption="Uljin (Korea) - VII 2024" %}
 {% include gallery id="gallery_ulleungdo" caption="Is.Ulleungdo (Korea) - VII 2024" %}
 {% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea) - VIII 2024" %}
