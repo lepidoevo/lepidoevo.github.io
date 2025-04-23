@@ -85,7 +85,12 @@ gallery_cheongju:
 
 ## My iNaturalist Observations
 
-<iframe src="https://www.inaturalist.org/observations/map?user_id=hanhee&layout=false" width="100%" height="500px" frameborder="0"></iframe>
+<div class="inaturalist-map-container">
+  <iframe src="https://www.inaturalist.org/observations/map?user_id=hanhee&layout=false" width="100%" height="500px" frameborder="0"></iframe>
+  <noscript>
+    <p>JavaScript is disabled, so the map cannot be displayed. <a href="https://www.inaturalist.org/observations?user_id=hanhee" target="_blank">View observation data on iNaturalist</a></p>
+  </noscript>
+</div>
 
 <div class="notice--info" style="margin-top: 10px; margin-bottom: 20px;">
   <p>This map shows locations of my field observations. <a href="https://www.inaturalist.org/observations?user_id=hanhee" target="_blank"><strong>View all my observations on iNaturalist</strong></a> for detailed species information and photographs.</p>
