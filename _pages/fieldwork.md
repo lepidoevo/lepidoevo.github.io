@@ -109,7 +109,7 @@ gallery_yongchodo:
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <div style="text-align: center;">
     <img src="/assets/images/field/light.jpg" alt="Moths attracted by the light trap" width="300" height="200">
-    <p style="margin-top: 5px; font-size: 14px;">Varied organisms attracted by the light trap</p>
+    <p style="margin-top: 5px; font-size: 14px;">Varied organisms attracted to the light trap</p>
   </div>
   
   <div style="text-align: center;">
