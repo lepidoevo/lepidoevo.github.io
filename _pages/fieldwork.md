@@ -5,24 +5,24 @@ classes: wide
 permalink: /fieldwork/
 author_profile: true
 gallery_heuksando:
-  - url: /assets/images/Heuksando/9022195.jpg
-    image_path: /assets/images/Heuksando/9022195.jpg
   - url: /assets/images/Heuksando/9022202.jpg
     image_path: /assets/images/Heuksando/9022202.jpg
   - url: /assets/images/Heuksando/9032497.jpg
     image_path: /assets/images/Heuksando/9032497.jpg
+  - url: /assets/images/Heuksando/9022195.jpg
+    image_path: /assets/images/Heuksando/9022195.jpg
   - url: /assets/images/Heuksando/9022254.jpg
     image_path: /assets/images/Heuksando/9022254.jpg
   - url: /assets/images/Heuksando/9032295.jpg
     image_path: /assets/images/Heuksando/9032295.jpg
   - url: /assets/images/Heuksando/9032317.jpg
     image_path: /assets/images/Heuksando/9032317.jpg
-  - url: /assets/images/Heuksando/9032469.jpg
-    image_path: /assets/images/Heuksando/9032469.jpg
   - url: /assets/images/Heuksando/9042533.jpg
     image_path: /assets/images/Heuksando/9042533.jpg
   - url: /assets/images/Heuksando/9042558.jpg
     image_path: /assets/images/Heuksando/9042558.jpg
+  - url: /assets/images/Heuksando/9032469.jpg
+    image_path: /assets/images/Heuksando/9032469.jpg
   - url: /assets/images/Heuksando/9022211.jpg
     image_path: /assets/images/Heuksando/9022211.jpg
   - url: /assets/images/Heuksando/9032375.jpg
@@ -128,8 +128,8 @@ gallery_yongchodo:
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
 {% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) - IX 2024" %}
-{% include gallery id="gallery_gwangreung" caption="Gwangreung (Korea) - VIII 2024" %}
+{% include gallery id="gallery_gwangreung" caption="Gwangneung Forest, Korea National Arboretum (Korea) - VIII 2024" %}
 {% include gallery id="gallery_ulleungdo" caption="Is.Ulleungdo (Korea) - VII 2024" %}
-{% include gallery id="gallery_uljin" caption="Uljin (Korea) - VII 2024" %}
+{% include gallery id="gallery_uljin" caption="Mt.Geumjangsan (Korea) - VII 2024" %}
 {% include gallery id="gallery_yongchodo" caption="Is.Yongchodo (Korea) - V 2024" %}
 
