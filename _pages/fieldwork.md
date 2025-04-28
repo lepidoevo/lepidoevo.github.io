@@ -104,7 +104,7 @@ gallery_yongchodo:
   <p>Note: The embedded map above has limited functionality. For full interactive features, please visit my complete observation collection on the iNaturalist website.</p>
 </div>
 
-### Collection trip experiences
+### Field Experiences
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <div style="text-align: center;">
@@ -123,7 +123,7 @@ gallery_yongchodo:
   </div>
 </div>
 
-## Photo Examples
+## Photo Gallery
 
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
