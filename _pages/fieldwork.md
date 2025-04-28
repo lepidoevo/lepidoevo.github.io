@@ -130,6 +130,6 @@ gallery_yongchodo:
 {% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) - IX 2024" %}
 {% include gallery id="gallery_gwangreung" caption="Gwangneung Forest, Korea National Arboretum (Korea) - VIII 2024" %}
 {% include gallery id="gallery_ulleungdo" caption="Is.Ulleungdo (Korea) - VII 2024" %}
-{% include gallery id="gallery_uljin" caption="Mt.Geumjangsan (Korea) - VII 2024" %}
+{% include gallery id="gallery_uljin" caption="Uljin (Korea) - VII 2024" %}
 {% include gallery id="gallery_yongchodo" caption="Is.Yongchodo (Korea) - V 2024" %}
 
