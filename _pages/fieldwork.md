@@ -11,18 +11,12 @@ gallery_heuksando:
     image_path: /assets/images/Heuksando/9032497.jpg
   - url: /assets/images/Heuksando/9022195.jpg
     image_path: /assets/images/Heuksando/9022195.jpg
-  - url: /assets/images/Heuksando/9022254.jpg
-    image_path: /assets/images/Heuksando/9022254.jpg
   - url: /assets/images/Heuksando/9032295.jpg
     image_path: /assets/images/Heuksando/9032295.jpg
   - url: /assets/images/Heuksando/9032317.jpg
     image_path: /assets/images/Heuksando/9032317.jpg
   - url: /assets/images/Heuksando/9042533.jpg
     image_path: /assets/images/Heuksando/9042533.jpg
-  - url: /assets/images/Heuksando/9042558.jpg
-    image_path: /assets/images/Heuksando/9042558.jpg
-  - url: /assets/images/Heuksando/9032469.jpg
-    image_path: /assets/images/Heuksando/9032469.jpg
   - url: /assets/images/Heuksando/9022211.jpg
     image_path: /assets/images/Heuksando/9022211.jpg
   - url: /assets/images/Heuksando/9032375.jpg
@@ -42,12 +36,6 @@ gallery_gwangreung:
     image_path: /assets/images/Gwangreung/8032798.jpg
   - url: /assets/images/Gwangreung/8032849.jpg
     image_path: /assets/images/Gwangreung/8032849.jpg
-  - url: /assets/images/Gwangreung/8122053.jpg
-    image_path: /assets/images/Gwangreung/8122053.jpg
-  - url: /assets/images/Gwangreung/8312122.jpg
-    image_path: /assets/images/Gwangreung/8312122.jpg
-  - url: /assets/images/Gwangreung/8312091.jpg
-    image_path: /assets/images/Gwangreung/8312091.jpg
 gallery_ulleungdo:
   - url: /assets/images/Ulleungdo/7091064.jpg
     image_path: /assets/images/Ulleungdo/7091064.jpg
@@ -57,14 +45,8 @@ gallery_ulleungdo:
     image_path: /assets/images/Ulleungdo/7091357.jpg
   - url: /assets/images/Ulleungdo/7111717.jpg
     image_path: /assets/images/Ulleungdo/7111717.jpg
-  - url: /assets/images/Ulleungdo/7111840.jpg
-    image_path: /assets/images/Ulleungdo/7111840.jpg
-  - url: /assets/images/Ulleungdo/7111851.jpg
-    image_path: /assets/images/Ulleungdo/7111851.jpg
   - url: /assets/images/Ulleungdo/7111856.jpg
     image_path: /assets/images/Ulleungdo/7111856.jpg
-  - url: /assets/images/Ulleungdo/7111870.jpg
-    image_path: /assets/images/Ulleungdo/7111870.jpg
   - url: /assets/images/Ulleungdo/7121962.jpg
     image_path: /assets/images/Ulleungdo/7121962.jpg
 gallery_uljin:
