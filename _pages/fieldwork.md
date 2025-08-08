@@ -4,6 +4,19 @@ title: "Fieldwork"
 classes: wide
 permalink: /fieldwork/
 author_profile: true
+gallery_shinjido:
+  - url: /assets/images/Shinjido/7020433.jpg
+    image_path: /assets/images/Shinjido/7020433.jpg
+  - url: /assets/images/Shinjido/7030478.jpg
+    image_path: /assets/images/Shinjido/7030478.jpg
+  - url: /assets/images/Shinjido/1010186.jpg
+    image_path: /assets/images/Shinjido/1010186.jpg
+  - url: /assets/images/Shinjido/7020370.jpg
+    image_path: /assets/images/Shinjido/7020370.jpg
+  - url: /assets/images/Shinjido/7020457.jpg
+    image_path: /assets/images/Shinjido/7020457.jpg
+  - url: /assets/images/Shinjido/1010197.jpg
+    image_path: /assets/images/Shinjido/1010197.jpg
 gallery_heuksando:
   - url: /assets/images/Heuksando/9022202.jpg
     image_path: /assets/images/Heuksando/9022202.jpg
@@ -109,6 +122,7 @@ gallery_yongchodo:
 
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
+{% include gallery id="gallery_shinjido" caption="Is.Shinjido (Korea) - VII 2025" %}
 {% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) - IX 2024" %}
 {% include gallery id="gallery_gwangreung" caption="Gwangneung Forest, Korea National Arboretum (Korea) - VIII 2024" %}
 {% include gallery id="gallery_ulleungdo" caption="Is.Ulleungdo (Korea) - VII 2024" %}
