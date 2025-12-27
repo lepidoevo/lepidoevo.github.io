@@ -4,19 +4,19 @@ title: "Fieldwork"
 classes: wide
 permalink: /fieldwork/
 author_profile: true
-gallery_gainseville:
-  - url: /assets/images/Gainseville/9110006.jpg
-    image_path: /assets/images/Gainseville/9110006.jpg
-  - url: /assets/images/Gainseville/9170021.jpg
-    image_path: /assets/images/Gainseville/9170021.jpg
-  - url: /assets/images/Gainseville/9170053.jpg
-    image_path: /assets/images/Gainseville/9170053.jpg
-  - url: /assets/images/Gainseville/9170086.jpg
-    image_path: /assets/images/Gainseville/9170086.jpg
-  - url: /assets/images/Gainseville/9170065.jpg
-    image_path: /assets/images/Gainseville/9170065.jpg
-  - url: /assets/images/Gainseville/9170041.jpg
-    image_path: /assets/images/Gainseville/9170041.jpg
+gallery_gainesville:
+  - url: /assets/images/Gainesville/9110006.jpg
+    image_path: /assets/images/Gainesville/9110006.jpg
+  - url: /assets/images/Gainesville/9170021.jpg
+    image_path: /assets/images/Gainesville/9170021.jpg
+  - url: /assets/images/Gainesville/9170053.jpg
+    image_path: /assets/images/Gainesville/9170053.jpg
+  - url: /assets/images/Gainesville/9170086.jpg
+    image_path: /assets/images/Gainesville/9170086.jpg
+  - url: /assets/images/Gainesville/9170065.jpg
+    image_path: /assets/images/Gainesville/9170065.jpg
+  - url: /assets/images/Gainesville/9170041.jpg
+    image_path: /assets/images/Gainesville/9170041.jpg
 gallery_shinjido:
   - url: /assets/images/Shinjido/7020433.jpg
     image_path: /assets/images/Shinjido/7020433.jpg
@@ -135,7 +135,7 @@ gallery_yongchodo:
 
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
-{% include gallery id="gallery_gainseville" caption="Gainseville (USA, FL) - IX 2025" %}
+{% include gallery id="gallery_Gainesville" caption="Gainesville (USA, FL) - IX 2025" %}
 {% include gallery id="gallery_shinjido" caption="Is.Shinjido (Korea) - VII 2025" %}
 {% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) - IX 2024" %}
 {% include gallery id="gallery_gwangreung" caption="Gwangneung Forest, Korea National Arboretum (Korea) - VIII 2024" %}
