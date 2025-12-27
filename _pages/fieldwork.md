@@ -135,7 +135,7 @@ gallery_yongchodo:
 
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
-{% include gallery id="gallery_Gainesville" caption="Gainesville (USA, FL) - IX 2025" %}
+{% include gallery id="gallery_gainesville" caption="Gainesville (USA, FL) - IX 2025" %}
 {% include gallery id="gallery_shinjido" caption="Is.Shinjido (Korea) - VII 2025" %}
 {% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) - IX 2024" %}
 {% include gallery id="gallery_gwangreung" caption="Gwangneung Forest, Korea National Arboretum (Korea) - VIII 2024" %}
