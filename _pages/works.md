@@ -7,6 +7,8 @@ author_profile: true
 ---
 # Peer-reviewed Articles
 ## 2025 
+3- **Han, H.** & Kim, S. (2025). A new subspecies of <i>Avitta fasciosa</i> Moore, 1882 from Korea. <i>Biodiversity Data Journal</i>, 13: e176317. DOI: [10.3897/BDJ.13.e176317](https://doi.org/10.3897/BDJ.13.e176317){:target='_blank'}
+
 2- **Han, H.** & Kim, S. (2025). First records of genera <i>Chrysopera</i> Hampson, 1894 and <i>Entomogramma</i> Guenée, 1852 of the subfamily Erebinae (Lepidoptera, Erebidae) from South Korea. <i>Biodiversity Data Journal</i>, 13: e139471. DOI: [10.3897/BDJ.12.e139471](https://doi.org/10.3897/BDJ.12.e139471){:target='_blank'}  
 
 ## 2024 
