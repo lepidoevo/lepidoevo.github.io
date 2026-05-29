@@ -4,6 +4,25 @@ title: "Fieldwork"
 classes: wide
 permalink: /fieldwork/
 author_profile: true
+gallery_madagascar:
+  - url: /assets/images/2026_Madagascar/HanHee-426064.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-426064.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-426035.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-426035.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-426067.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-426067.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-425013.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-425013.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-425015.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-425015.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-426066.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-426066.jpg
+	  - url: /assets/images/2026_Madagascar/HanHee-427069.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-427069.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-429119.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-429119.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-427070.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-427070.jpg
 gallery_gainesville:
   - url: /assets/images/Gainesville/9110006.jpg
     image_path: /assets/images/Gainesville/9110006.jpg
@@ -129,12 +148,28 @@ gallery_yongchodo:
     <img src="/assets/images/field/field.jpg" alt="During collect trip to Gangwondo (Korea)" width="300" height="200">
     <p style="margin-top: 5px; font-size: 14px;">With <i>Catocala nivea</i>, during the collection trip</p>
   </div>
+  
+    <div style="text-align: center;">
+    <img src="/assets/images/field/madagascar_1.jpg" alt="The landscape of Madagascar" width="300" height="200">
+    <p style="margin-top: 5px; font-size: 14px;">The landscape of Madagascar</p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="/assets/images/field/madagascar_2.jpg" alt="With a Madagascar ground boa" width="300" height="200">
+    <p style="margin-top: 5px; font-size: 14px;">With a Madagascar ground boa</p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="/assets/images/field/madagascar_3.jpg" alt="At the Entomology lab of Antananarivo University" width="300" height="200">
+    <p style="margin-top: 5px; font-size: 14px;">At the Entomology lab of Antananarivo University</p>
+  </div>
 </div>
 
 ## Photo Gallery
 
 ##### Macrophotographs with Olympus micro four thirds gears and a cygnustech diffuser
 
+{% include gallery id="gallery_madagascar" caption="Madagascar (Africa) - IV 2026" %}
 {% include gallery id="gallery_gainesville" caption="Gainesville (USA, FL) - IX 2025" %}
 {% include gallery id="gallery_shinjido" caption="Is.Shinjido (Korea) - VII 2025" %}
 {% include gallery id="gallery_heuksando" caption="Is.Heuksando (Korea) - IX 2024" %}
