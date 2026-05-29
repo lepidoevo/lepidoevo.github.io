@@ -131,37 +131,73 @@ gallery_yongchodo:
   <p>Note: The embedded map above has limited functionality. For full interactive features, please visit my complete observation collection on the iNaturalist website.</p>
 </div>
 
+<style type="text/css" media="screen">
+.inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
+.inat-widget-header {margin-bottom: 10px;}
+.inat-widget td {vertical-align: top; padding-bottom: 10px;}
+.inat-label { color: #888; }
+.inat-meta { font-size: smaller; margin-top: 3px; line-height: 1.2;}
+.inat-observation-body, .inat-user-body { padding-left: 10px; }
+.inat-observation-image {text-align: center;}
+.inat-observation-image, .inat-user-image { width: 48px; display: inline-block; }
+.inat-observation-image img, .inat-user-image img { max-width: 48px; }
+.inat-observation-image img { vertical-align: middle; }
+.inat-widget-small .inat-observation-image { display:block; float: left; margin: 0 3px 3px 0; height:48px;}
+.inat-label, .inat-value, .inat-user { font-family: "Trebuchet MS", Arial, sans-serif; }
+.inat-user-body {vertical-align: middle;}
+.inat-widget td.inat-user-body {vertical-align: middle;}
+.inat-widget .inat-footer td.inat-value {vertical-align: middle; padding-left: 10px;}
+</style>
+
+<div class="inat-widget">
+  <div class="inat-widget-header">
+    <a href="https://www.inaturalist.org"><img alt="iNaturalist" src="https://www.inaturalist.org/assets/logo-small.gif" /></a>  
+  </div>
+
+  <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/widget.js?layout=large&limit=5&order=desc&order_by=observed_on&user_id=hanhee"></script>
+
+  <table class="inat-footer">
+    <tr class="inat-user">
+      <td class="inat-user-image">
+        <a border="0" href="https://www.inaturalist.org/observations/hanhee"><img class="usericon" src="https://static.inaturalist.org/attachments/users/icons/4962726/thumb.jpg?1723219986" /></a>
+      </td>
+      <td class="inat-value">
+        <strong>
+          <a href="https://www.inaturalist.org/observations/hanhee">View hanhee's observations »</a>
+        </strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### Field Experiences
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <div style="text-align: center;">
     <img src="/assets/images/field/light.jpg" alt="Moths attracted by the light trap" width="300" height="200">
-    <p style="margin-top: 5px; font-size: 14px;">Varied organisms attracted to the light trap</p>
+    <p style="margin-top: 5px; font-size: 14px;">Some critters attracted to the light trap (Korea)</p>
   </div>
   
   <div style="text-align: center;">
     <img src="/assets/images/field/wando.jpg" alt="Is.Wando's climate" width="300" height="200">
-    <p style="margin-top: 5px; font-size: 14px;">Temperate-subtropical climate of an island</p>
-  </div>
-  
-  <div style="text-align: center;">
-    <img src="/assets/images/field/field.jpg" alt="During collect trip to Gangwondo (Korea)" width="300" height="200">
-    <p style="margin-top: 5px; font-size: 14px;">With <i>Catocala nivea</i>, during the collection trip</p>
-  </div>
-  
-    <div style="text-align: center;">
-    <img src="/assets/images/field/madagascar_1.jpg" alt="The landscape of Madagascar" width="300" height="200">
-    <p style="margin-top: 5px; font-size: 14px;">The landscape of Madagascar</p>
+    <p style="margin-top: 5px; font-size: 14px;">Temperate-subtropical climate of an Korean island</p>
   </div>
   
   <div style="text-align: center;">
     <img src="/assets/images/field/madagascar_2.jpg" alt="With a Madagascar ground boa" width="300" height="200">
-    <p style="margin-top: 5px; font-size: 14px;">With a Madagascar ground boa</p>
+    <p style="margin-top: 5px; font-size: 14px;">Me handling a Madagascar ground boa</p>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div style="text-align: center; flex: 1;">
+    <img src="/assets/images/field/madagascar_1.jpg" alt="The landscape of Madagascar" width="100%" height="auto">
+    <p style="margin-top: 5px; font-size: 14px;">The majestic landscape of Madagascar</p>
   </div>
   
-  <div style="text-align: center;">
-    <img src="/assets/images/field/madagascar_3.jpg" alt="At the Entomology lab of Antananarivo University" width="300" height="200">
-    <p style="margin-top: 5px; font-size: 14px;">At the Entomology lab of Antananarivo University</p>
+  <div style="text-align: center; flex: 1;">
+    <img src="/assets/images/field/madagascar_3.jpg" alt="At the Entomology lab of Antananarivo University" width="100%" height="auto">
+    <p style="margin-top: 5px; font-size: 14px;">At the Entomology lab of Antananarivo University (Madagascar)</p>
   </div>
 </div>
 
