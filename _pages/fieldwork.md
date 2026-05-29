@@ -5,24 +5,24 @@ classes: wide
 permalink: /fieldwork/
 author_profile: true
 gallery_madagascar:
-  - url: /assets/images/2026_Madagascar/HanHee-426064.jpg
-    image_path: /assets/images/2026_Madagascar/HanHee-426064.jpg
-  - url: /assets/images/2026_Madagascar/HanHee-426035.jpg
-    image_path: /assets/images/2026_Madagascar/HanHee-426035.jpg
-  - url: /assets/images/2026_Madagascar/HanHee-426067.jpg
-    image_path: /assets/images/2026_Madagascar/HanHee-426067.jpg
-  - url: /assets/images/2026_Madagascar/HanHee-425013.jpg
-    image_path: /assets/images/2026_Madagascar/HanHee-425013.jpg
-  - url: /assets/images/2026_Madagascar/HanHee-425015.jpg
-    image_path: /assets/images/2026_Madagascar/HanHee-425015.jpg
-  - url: /assets/images/2026_Madagascar/HanHee-426066.jpg
-    image_path: /assets/images/2026_Madagascar/HanHee-426066.jpg
-	  - url: /assets/images/2026_Madagascar/HanHee-427069.jpg
-    image_path: /assets/images/2026_Madagascar/HanHee-427069.jpg
-  - url: /assets/images/2026_Madagascar/HanHee-429119.jpg
-    image_path: /assets/images/2026_Madagascar/HanHee-429119.jpg
-  - url: /assets/images/2026_Madagascar/HanHee-427070.jpg
-    image_path: /assets/images/2026_Madagascar/HanHee-427070.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-4260646.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-4260646.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-4260354.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-4260354.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-4260670.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-4260670.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-4250136.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-4250136.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-4250156.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-4250156.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-4260665.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-4260665.jpg
+	  - url: /assets/images/2026_Madagascar/HanHee-4270698.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-4270698.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-4291194.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-4291194.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-4270706.jpg
+    image_path: /assets/images/2026_Madagascar/HanHee-4270706.jpg
 gallery_gainesville:
   - url: /assets/images/Gainesville/9110006.jpg
     image_path: /assets/images/Gainesville/9110006.jpg
