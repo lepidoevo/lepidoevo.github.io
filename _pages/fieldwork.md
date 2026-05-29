@@ -116,58 +116,95 @@ gallery_yongchodo:
     image_path: /assets/images/Yongchodo/5132290.jpg
 ---
 
-## My iNaturalist Observations
-
-<div class="inaturalist-map-container">
-  <iframe src="https://www.inaturalist.org/observations/map?user_id=hanhee&layout=false" width="100%" height="500px" frameborder="0"></iframe>
-  <noscript>
-    <p>JavaScript is disabled, so the map cannot be displayed. <a href="https://www.inaturalist.org/observations?user_id=hanhee" target="_blank">View observation data on iNaturalist</a></p>
-  </noscript>
-</div>
-
-<div class="notice--info" style="margin-top: 10px; margin-bottom: 20px;">
-  <p>This map shows locations of my field observations. <a href="https://www.inaturalist.org/observations?user_id=hanhee" target="_blank"><strong>View all my observations on iNaturalist</strong></a> for detailed species information and photographs.</p>
-  
-  <p>Note: The embedded map above has limited functionality. For full interactive features, please visit my complete observation collection on the iNaturalist website.</p>
-</div>
+### My iNaturalist Observations
 
 <style type="text/css" media="screen">
-.inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
-.inat-widget-header {margin-bottom: 10px;}
-.inat-widget td {vertical-align: top; padding-bottom: 10px;}
-.inat-label { color: #888; }
-.inat-meta { font-size: smaller; margin-top: 3px; line-height: 1.2;}
-.inat-observation-body, .inat-user-body { padding-left: 10px; }
-.inat-observation-image {text-align: center;}
-.inat-observation-image, .inat-user-image { width: 48px; display: inline-block; }
-.inat-observation-image img, .inat-user-image img { max-width: 48px; }
-.inat-observation-image img { vertical-align: middle; }
-.inat-widget-small .inat-observation-image { display:block; float: left; margin: 0 3px 3px 0; height:48px;}
-.inat-label, .inat-value, .inat-user { font-family: "Trebuchet MS", Arial, sans-serif; }
-.inat-user-body {vertical-align: middle;}
-.inat-widget td.inat-user-body {vertical-align: middle;}
-.inat-widget .inat-footer td.inat-value {vertical-align: middle; padding-left: 10px;}
+  .custom-inat-section {
+    margin: 40px auto;
+    padding: 20px;
+    background: #fdfdfd;
+    border: 1px solid #e1e8ed;
+    border-radius: 12px;
+    max-width: 800px;
+  }
+  .custom-inat-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #74ac00; /* iNaturalist 시그니처 그린 */
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+  }
+  .custom-inat-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .custom-inat-title span {
+    color: #74ac00;
+  }
+  .custom-inat-btn {
+    display: inline-block;
+    background-color: #74ac00;
+    color: white !important;
+    padding: 8px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 20px;
+    text-decoration: none !important;
+    transition: background 0.2s ease;
+  }
+  .custom-inat-btn:hover {
+    background-color: #5b8800;
+  }
+  .inat-grid-fallback {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: 15px;
+    margin-bottom: 15px;
+  }
+  .inat-item-box {
+    border: 1px solid #eee;
+    border-radius: 8px;
+    overflow: hidden;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+  }
+  .inat-item-box:hover {
+    transform: translateY(-3px);
+  }
+  .inat-item-box img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    display: block;
+  }
+  .inat-item-info {
+    padding: 8px;
+    font-size: 12px;
+    text-align: center;
+    background: #fafafa;
+    border-top: 1px solid #f0f0f0;
+  }
 </style>
 
-<div class="inat-widget">
-  <div class="inat-widget-header">
-    <a href="https://www.inaturalist.org"><img alt="iNaturalist" src="https://www.inaturalist.org/assets/logo-small.gif" /></a>  
+<div class="custom-inat-section">
+  <div class="custom-inat-header">
+    <div class="custom-inat-title">
+      🌿 <span>iNaturalist</span> Recent Observations
+    </div>
+    <a href="https://www.inaturalist.org/observations?user_id=hanhee&verifiable=any&view=species" target="_blank" class="custom-inat-btn">
+      View All Observations →
+    </a>
   </div>
 
-  <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/widget.js?layout=large&limit=5&order=desc&order_by=observed_on&user_id=hanhee"></script>
-
-  <table class="inat-footer">
-    <tr class="inat-user">
-      <td class="inat-user-image">
-        <a border="0" href="https://www.inaturalist.org/observations/hanhee"><img class="usericon" src="https://static.inaturalist.org/attachments/users/icons/4962726/thumb.jpg?1723219986" /></a>
-      </td>
-      <td class="inat-value">
-        <strong>
-          <a href="https://www.inaturalist.org/observations/hanhee">View hanhee's observations »</a>
-        </strong>
-      </td>
-    </tr>
-  </table>
+  <div class="inat-obs-container">
+    <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/widget.js?layout=grid&limit=5&order=desc&order_by=observed_on&user_id=hanhee"></script>
+  </div>
 </div>
 
 ### Field Experiences
