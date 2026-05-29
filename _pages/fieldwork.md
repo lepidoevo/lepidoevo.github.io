@@ -17,7 +17,7 @@ gallery_madagascar:
     image_path: /assets/images/2026_Madagascar/HanHee-4250156.jpg
   - url: /assets/images/2026_Madagascar/HanHee-4260665.jpg
     image_path: /assets/images/2026_Madagascar/HanHee-4260665.jpg
-	  - url: /assets/images/2026_Madagascar/HanHee-4270698.jpg
+  - url: /assets/images/2026_Madagascar/HanHee-4270698.jpg
     image_path: /assets/images/2026_Madagascar/HanHee-4270698.jpg
   - url: /assets/images/2026_Madagascar/HanHee-4291194.jpg
     image_path: /assets/images/2026_Madagascar/HanHee-4291194.jpg
