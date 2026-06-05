@@ -8,7 +8,7 @@ author_profile: true
 # Peer-reviewed Articles
 
 ## 2026 
-3- Cha, Y.-B., **Han, H.**, Ra, D.-K., Kim, S. (2026). A new species of <i>Dudusa</i> (Lepidoptera: Notodontidae) from the Oriental Region with an annotated checklist of the genus. <i>Zootaxa</i>, 5821 (4), 571-580. DOI: [10.11646/zootaxa.5821.4.9](https://doi.org/10.11646/zootaxa.5821.4.9){:target='_blank'}
+4- Cha, Y.-B., **Han, H.**, Ra, D.-K., Kim, S. (2026). A new species of <i>Dudusa</i> (Lepidoptera: Notodontidae) from the Oriental Region with an annotated checklist of the genus. <i>Zootaxa</i>, 5821 (4), 571-580. DOI: [10.11646/zootaxa.5821.4.9](https://doi.org/10.11646/zootaxa.5821.4.9){:target='_blank'}
 
 ## 2025 
 3- **Han, H.** & Kim, S. (2025). A new subspecies of <i>Avitta fasciosa</i> Moore, 1882 from Korea. <i>Biodiversity Data Journal</i>, 13: e176317. DOI: [10.3897/BDJ.13.e176317](https://doi.org/10.3897/BDJ.13.e176317){:target='_blank'}
