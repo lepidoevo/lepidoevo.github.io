@@ -8,6 +8,10 @@ author_profile: true
 # Peer-reviewed Articles
 
 ## 2026 
+6- **Han, H.**, Martinez, J.I., Plotkin, D., Masonick, P.K., Bethin, J., Ravelomanana, A., Kawahara, A.Y., Kim, S. A comprehensive dated phylogeny of Erebidae (Lepidoptera, Noctuoidea) clarifies evolutionary relationships, divergence times, and taxonomy. <i>Systematic Entomology (under review)</i>
+
+5- **Han, H.**, Park, D.H., Kim, S. (2026). A new record of the southern erebid moth species, <i>Hypena nakajimai</i> Kishida, 2010 (Lepidoptera, Erebidae), from Korea with molecular analyses. <i>Biodiversity Data Journal</i>, 14:e198224. DOI: [10.3897/BDJ.14.e198224](https://doi.org/10.3897/BDJ.14.e198224){:target='_blank'}
+
 4- Cha, Y.-B., **Han, H.**, Ra, D.-K., Kim, S. (2026). A new species of <i>Dudusa</i> (Lepidoptera: Notodontidae) from the Oriental Region with an annotated checklist of the genus. <i>Zootaxa</i>, 5821 (4), 571-580. DOI: [10.11646/zootaxa.5821.4.9](https://doi.org/10.11646/zootaxa.5821.4.9){:target='_blank'}
 
 ## 2025 
